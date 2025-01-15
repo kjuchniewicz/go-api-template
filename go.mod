@@ -1,4 +1,4 @@
-module github.com/dzungtran/echo-rest-api
+module github.com/kjuchniewicz/go-api-template
 
 go 1.21
 

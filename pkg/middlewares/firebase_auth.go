@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/dzungtran/echo-rest-api/modules/core/domains"
-	"github.com/dzungtran/echo-rest-api/modules/core/dto"
-	"github.com/dzungtran/echo-rest-api/pkg/constants"
+	"github.com/kjuchniewicz/go-api-template/modules/core/domains"
+	"github.com/kjuchniewicz/go-api-template/modules/core/dto"
+	"github.com/kjuchniewicz/go-api-template/pkg/constants"
 	"github.com/labstack/echo/v4"
 )
 

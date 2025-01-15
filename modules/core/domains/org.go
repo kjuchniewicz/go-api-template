@@ -5,8 +5,8 @@ package domains
 import (
 	"time"
 
-	"github.com/dzungtran/echo-rest-api/pkg/cue"
-	"github.com/dzungtran/echo-rest-api/pkg/utils"
+	"github.com/kjuchniewicz/go-api-template/pkg/cue"
+	"github.com/kjuchniewicz/go-api-template/pkg/utils"
 )
 
 type Org struct {
