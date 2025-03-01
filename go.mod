@@ -19,7 +19,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/lithammer/shortuuid/v4 v4.0.0
 	github.com/open-policy-agent/opa v0.60.0
-	github.com/spf13/cobra v1.8.0
+	github.com/spf13/cobra v1.9.1
 	github.com/stretchr/testify v1.8.4
 	github.com/swaggo/echo-swagger v1.4.1
 	github.com/swaggo/swag v1.16.2
@@ -96,7 +96,7 @@ require (
 	github.com/prometheus/procfs v0.10.1 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20200313005456-10cdbea86bc0 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
-	github.com/spf13/pflag v1.0.5 // indirect
+	github.com/spf13/pflag v1.0.6 // indirect
 	github.com/swaggo/files/v2 v2.0.0 // indirect
 	github.com/tchap/go-patricia/v2 v2.3.1 // indirect
 	github.com/tidwall/gjson v1.14.2 // indirect
